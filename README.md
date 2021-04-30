@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bavithiran
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning UiPath (RPA)
-- 💞️ I’m looking to collaborate on Automation testing
+- 💞️ I’m looking to collaborate on Automation testing [Cucumber Framework , java , selenium and appium] 
 - 📫 How to reach me on bavithiranhardy14@gmail.com
 
 <!---
